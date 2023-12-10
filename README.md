@@ -19,7 +19,8 @@
 ###### 🌱 I'M LOOKING FOR OPPORTUNITIES ON...
 
 - Web development
-  - Preferably _backend_ (NodeJS)
+  - Both _frontend_ and _backend_
+  - But preferably _backend_ (NodeJS)
 - Data science
   - Python
 - Open-source contributions
@@ -27,10 +28,9 @@
 
 ###### 💬 ASK ME ABOUT...
 
+- `.jsx` | `.tsx`
+- `.js` | `.ts`
 - `.py`
-- `.js`
-- `.jsx` (_maybe..._)
-- ~~`.ts | .tsx`~~ (_coming soon...!_)
 
 ###### ⚡ FUN FACT...
 
